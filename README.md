@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @aabidproo
+# 👋 Hi, I’m Aabid Hasan
 
 Welcome to my GitHub profile! 
 
