@@ -19,8 +19,6 @@ I'm enthusiastic about collaborating on projects focused on frontend development
 
 ## 📫 How to Reach Me
 - Email: aabidhasan495@gmail.com
-- LinkedIn: [[your LinkedIn profile URL]](https://www.linkedin.com/in/aabidhasan495/)
-
 
 ## ⚡ Fun Fact
 Did you know that octopuses have three hearts? Similarly, I put my heart into every line of code I write to ensure it’s robust, efficient, and scalable!
