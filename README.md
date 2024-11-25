@@ -9,9 +9,7 @@
 Welcome to my GitHub profile! 
 
 ## 👀 About Me
-I'm a passionate frontend developer specializing in React, Next.js, and React Native. I enjoy crafting responsive and user-friendly interfaces and am constantly seeking new technologies that improve the way users interact with applications.
-
-
+I'm a passionate learner persuing a postgraduate in computer science. I m faster learner and looking forward to become a fullstack developer. lets connect insta @aabidpro_
 ## 📫 How to Reach Me
 - Email: aabidhasan495@gmail.com
 
