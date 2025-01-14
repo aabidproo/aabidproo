@@ -9,6 +9,6 @@
 Welcome to my GitHub profile! 
 
 ## 👀 About Me
-I'm a passionate learner persuing a postgraduate in computer science. I m faster learner and looking forward to become a fullstack developer. lets connect insta @aabidpro_
+Persuing a postgraduate in computer science. I m faster learner and looking forward to become a frontend developer. lets connect insta @aabidpro_
 ## 📫 How to Reach Me
 - Email: aabidhasan495@gmail.com
