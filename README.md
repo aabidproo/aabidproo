@@ -12,7 +12,3 @@ Welcome to my GitHub profile!
 I'm a passionate learner persuing a postgraduate in computer science. I m faster learner and looking forward to become a fullstack developer. lets connect insta @aabidpro_
 ## 📫 How to Reach Me
 - Email: aabidhasan495@gmail.com
-
-## ⚡ Fun Fact
-Did you know that octopuses have three hearts? Similarly, I put my heart into every line of code I write to ensure it’s robust, efficient, and scalable!
-
